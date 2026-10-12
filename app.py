@@ -52,7 +52,7 @@ PROJECTS = [
         "description": "A data analysis project that examines Diwali sales data to "
                        "uncover customer purchasing behavior, sales trends, and "
                        "business insights using Python visualization libraries.",
-        "tech": ["Python", "NumPy", "Pandas", "Matplotlib", "Seaborn"],
+        "tech": ["Python", "NumPy", "Pandas", "Matplotlib"],
         "github": "https://github.com/SaiHimaSindhu/Diwali_Sales_Data",
         "demo": "#",
         "illustration": "analytics",
